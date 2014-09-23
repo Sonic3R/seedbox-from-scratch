@@ -692,7 +692,6 @@ echo "Looks like everything is set."
 echo ""
 echo "Remember that your SSH port is now ======> $NEWSSHPORT1"
 echo ""
-#echo "System will reboot now, but don't close this window until you take note of the port number: $NEWSSHPORT1"
 echo ""
 echo ""
 echo ""
@@ -700,9 +699,5 @@ echo ""
 echo ""
 echo ""
 echo ""
-
-# 99.
-
-# reboot
 
 ##################### LAST LINE ###########
